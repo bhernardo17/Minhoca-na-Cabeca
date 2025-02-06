@@ -1,8 +1,5 @@
-# React + Vite
+# Minhoca na Cabeça 🌱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O **Minhoca na Cabeça** é um projeto que incentiva a reciclagem doméstica do resíduo orgânico em Florianópolis. Através da doação de minhocários e oficinas de capacitação, os participantes aprendem a transformar lixo orgânico em adubo, contribuindo para uma cidade mais sustentável.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este repositório contém o front-end do projeto, desenvolvido com **React** e **Vite**, com um design moderno e responsivo.
